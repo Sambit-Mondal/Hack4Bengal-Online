@@ -1,0 +1,144 @@
+Location,Area_SqFt,Property_Type,Proximity_to_Highway_km,Land_Quality_Rating,Price_INR
+Salt Lake,2400,Residential Plot,3.5,5,18500000
+New Town,2000,Residential Plot,2.1,5,15800000
+Howrah,1800,Residential Plot,1.5,4,11000000
+Barasat,1200,Residential Plot,5,3,6500000
+Barrackpore,1500,Commercial Plot,3,5,16000000
+Dum Dum,1600,Residential Plot,0.8,4,9800000
+Kamarhati,2500,Commercial Plot,2.5,5,27500000
+Rajarhat,2200,Residential Plot,1.8,5,17000000
+Titagarh,3000,Residential Plot,4,4,16500000
+Shyamnagar,2400,Residential Plot,6.5,2,7800000
+Bandel,3500,Residential Plot,7,2,9500000
+Salt Lake,3000,Residential Plot,3.8,5,22000000
+New Town,1800,Commercial Plot,2,5,19500000
+Howrah,2000,Residential Plot,1.2,4,12500000
+Barasat,1500,Commercial Plot,5.5,3,9500000
+Barrackpore,1200,Residential Plot,2.8,5,11500000
+Dum Dum,2000,Commercial Plot,0.5,4,15500000
+Kamarhati,1800,Residential Plot,2.2,5,16800000
+Rajarhat,1600,Commercial Plot,1.5,5,19000000
+Titagarh,2500,Residential Plot,4.2,4,14000000
+Shyamnagar,3000,Residential Plot,6.8,2,8800000
+Bandel,4000,Residential Plot,7.5,2,10500000
+Salt Lake,1500,Residential Plot,4,5,12000000
+New Town,2200,Residential Plot,2.5,5,17200000
+Howrah,2500,Commercial Plot,1,4,19000000
+Barasat,1000,Residential Plot,5.8,3,5500000
+Barrackpore,2000,Residential Plot,3.2,5,16500000
+Dum Dum,2400,Residential Plot,1,4,13000000
+Kamarhati,3000,Residential Plot,2.8,5,24500000
+Rajarhat,2800,Residential Plot,2,5,21000000
+Titagarh,1800,Residential Plot,3.8,4,10500000
+Shyamnagar,2000,Residential Plot,6,2,6500000
+Bandel,5000,Commercial Plot,8,2,18000000
+Salt Lake,4000,Commercial Plot,3,5,38000000
+New Town,1200,Residential Plot,1.9,5,10000000
+Howrah,1500,Residential Plot,1.4,4,9200000
+Barasat,2000,Residential Plot,6.2,3,9800000
+Barrackpore,2500,Commercial Plot,3.5,5,26000000
+Dum Dum,1400,Residential Plot,0.6,4,8500000
+Kamarhati,2000,Residential Plot,2.4,5,18000000
+Rajarhat,3000,Commercial Plot,1.2,5,33000000
+Titagarh,3500,Residential Plot,4.5,4,18500000
+Shyamnagar,1500,Residential Plot,5.8,2,5200000
+Bandel,2800,Residential Plot,7.2,2,8000000
+Salt Lake,2000,Residential Plot,3.6,5,16000000
+New Town,3000,Commercial Plot,2.3,5,31000000
+Howrah,3000,Residential Plot,1.6,4,16500000
+Barasat,1800,Residential Plot,5.3,3,8800000
+Barrackpore,1600,Residential Plot,2.9,5,13500000
+Dum Dum,3000,Commercial Plot,0.7,4,21000000
+Kamarhati,2200,Residential Plot,2.6,5,19500000
+Rajarhat,2000,Residential Plot,1.7,5,16000000
+Titagarh,2800,Residential Plot,4.1,4,15500000
+Shyamnagar,4000,Residential Plot,7,2,11500000
+Bandel,3200,Residential Plot,7.8,2,8900000
+Salt Lake,2600,Residential Plot,3.3,5,20000000
+New Town,2500,Residential Plot,2.2,5,19000000
+Howrah,1200,Residential Plot,1.1,4,8000000
+Barasat,1400,Residential Plot,5.6,3,7200000
+Barrackpore,1800,Commercial Plot,3.1,5,19000000
+Dum Dum,1800,Residential Plot,0.9,4,10500000
+Kamarhati,2800,Commercial Plot,2.7,5,30000000
+Rajarhat,2400,Residential Plot,1.9,5,18500000
+Titagarh,2000,Residential Plot,3.9,4,11500000
+Shyamnagar,2600,Residential Plot,6.2,2,8200000
+Bandel,4500,Residential Plot,7.3,2,11800000
+Salt Lake,3500,Residential Plot,4.2,5,25500000
+New Town,2800,Commercial Plot,2.4,5,29000000
+Howrah,2200,Residential Plot,1.3,4,13500000
+Barasat,1600,Commercial Plot,6,3,10000000
+Barrackpore,2200,Residential Plot,3.3,5,18000000
+Dum Dum,2600,Residential Plot,1.1,4,14500000
+Kamarhati,1500,Residential Plot,2.3,5,14500000
+Rajarhat,3200,Residential Plot,2.1,5,23500000
+Titagarh,4000,Commercial Plot,4.8,4,25000000
+Shyamnagar,1800,Residential Plot,5.5,2,5800000
+Bandel,6000,Residential Plot,8.2,2,15000000
+Salt Lake,1800,Residential Plot,3.7,5,14000000
+New Town,3200,Residential Plot,2.6,5,23000000
+Howrah,2800,Commercial Plot,1.7,4,21500000
+Barasat,1300,Residential Plot,5.7,3,6800000
+Barrackpore,3000,Residential Plot,3.6,5,23000000
+Dum Dum,1200,Residential Plot,0.4,4,7800000
+Kamarhati,3500,Commercial Plot,2.9,5,37000000
+Rajarhat,1500,Residential Plot,1.6,5,13000000
+Titagarh,2200,Residential Plot,4,4,12500000
+Shyamnagar,3500,Residential Plot,6.6,2,9800000
+Bandel,3800,Residential Plot,7.6,2,9900000
+Salt Lake,5000,Commercial Plot,3.1,5,45000000
+New Town,1600,Residential Plot,2,5,13500000
+Howrah,1600,Residential Plot,1.5,4,9800000
+Barasat,2200,Commercial Plot,6.4,3,12500000
+Barrackpore,1400,Residential Plot,2.7,5,12500000
+Dum Dum,3500,Residential Plot,1.3,4,17500000
+Kamarhati,2600,Residential Plot,2.5,5,22000000
+Rajarhat,4000,Commercial Plot,1.4,5,42000000
+Titagarh,3200,Residential Plot,4.3,4,17000000
+Shyamnagar,2200,Residential Plot,5.9,2,7000000
+Bandel,2500,Residential Plot,7.1,2,7200000
+Salt Lake,2200,Residential Plot,3.9,5,17500000
+New Town,4000,Residential Plot,2.8,5,28000000
+Howrah,3500,Commercial Plot,1.9,4,25000000
+Barasat,1100,Residential Plot,5.4,3,6000000
+Barrackpore,2800,Commercial Plot,3.4,5,29000000
+Dum Dum,2200,Residential Plot,0.8,4,12000000
+Kamarhati,4000,Residential Plot,3,5,31000000
+Rajarhat,1800,Residential Plot,1.8,5,15000000
+Titagarh,1500,Residential Plot,3.7,4,9500000
+Shyamnagar,4500,Commercial Plot,7.2,2,15000000
+Bandel,5500,Residential Plot,8.5,2,13500000
+Salt Lake,2800,Commercial Plot,3.2,5,29500000
+New Town,2600,Residential Plot,2.1,5,20000000
+Howrah,4000,Residential Plot,2,4,21000000
+Barasat,2500,Residential Plot,6.5,3,11000000
+Barrackpore,1000,Residential Plot,2.6,5,9500000
+Dum Dum,4000,Commercial Plot,1.4,4,26000000
+Kamarhati,1200,Residential Plot,2.1,5,12000000
+Rajarhat,2600,Residential Plot,1.7,5,20000000
+Titagarh,5000,Residential Plot,5,4,23000000
+Shyamnagar,2800,Residential Plot,6.3,2,8500000
+Bandel,3000,Residential Plot,7.4,2,8300000
+Salt Lake,6000,Residential Plot,4.5,5,38000000
+New Town,1400,Residential Plot,1.8,5,11500000
+Howrah,1400,Residential Plot,1.2,4,8800000
+Barasat,1700,Residential Plot,5.9,3,8200000
+Barrackpore,3500,Commercial Plot,3.8,5,34000000
+Dum Dum,2800,Residential Plot,1,4,15000000
+Kamarhati,5000,Commercial Plot,3.2,5,48000000
+Rajarhat,1200,Commercial Plot,1.3,5,15500000
+Titagarh,2600,Residential Plot,4.2,4,14500000
+Shyamnagar,3200,Residential Plot,6.7,2,9200000
+Bandel,7000,Commercial Plot,9,2,21000000
+Salt Lake,2500,Residential Plot,3.4,5,19000000
+New Town,3500,Residential Plot,2.7,5,25000000
+Howrah,2600,Residential Plot,1.6,4,15000000
+Barasat,3000,Commercial Plot,6.8,3,15000000
+Barrackpore,2400,Residential Plot,3,5,19500000
+Dum Dum,3200,Residential Plot,1.2,4,16500000
+Kamarhati,2400,Residential Plot,2.6,5,20500000
+Rajarhat,3500,Residential Plot,2,5,26000000
+Titagarh,3800,Residential Plot,4.6,4,19500000
+Shyamnagar,5000,Residential Plot,7.5,2,13000000
+Bandel,4200,Residential Plot,7.9,2,10800000
